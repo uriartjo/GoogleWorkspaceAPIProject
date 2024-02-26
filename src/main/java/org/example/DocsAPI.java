@@ -9,4 +9,17 @@ public class DocsAPI {
         return docService;
     }
 
+
+    public static void insertText(String test) {
+
+    }
+
+    public void createDoc(String docTitle) {
+
+    }
+
+    public void outputText() {
+
+    }
+
 }
